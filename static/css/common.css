@@ -1,0 +1,27 @@
+body,#app{
+  padding:0px;
+  margin:0px;
+}
+.f-r{
+  float:right;
+}
+.alignCenter{
+  text-align: center !important;
+}
+.displayInlineB{
+  display: inline-block;;
+}
+
+.mr-15{
+  margin-right: 15px;
+}
+.f-l{
+  float:left;
+}
+.nav{
+  font-size:14px;
+}
+.alignLeft{
+  text-align: left;
+}
+
